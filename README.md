@@ -1,2 +1,4 @@
-# unibooklet
-Create nice looking booklets
+# Unibooklet
+
+Nice looking booklet template.
+Requires xelatex.
